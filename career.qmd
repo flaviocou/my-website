@@ -1,0 +1,83 @@
+---
+title: "Career"
+subtitle: "From a junior Wimbledon champion in 1998 to a farewell at the 2022 Laver Cup"
+---
+
+## Timeline
+
+| Year | Milestone |
+|------|-----------|
+| 1998 | Wins the Wimbledon boys' singles title; turns professional. |
+| 2001 | Ends Pete Sampras's 31-match Wimbledon win streak in the fourth round. |
+| 2003 | Wins his first Grand Slam title at Wimbledon. |
+| 2004 | Wins three majors in a season and reaches No. 1 for the first time (2 February 2004). |
+| 2006 | Goes 92–5 on the season, reaching all four major finals. |
+| 2009 | Completes the Career Grand Slam by winning the French Open; breaks Sampras's record of 14 majors at Wimbledon. |
+| 2012 | Wins a seventh Wimbledon title and returns to No. 1, extending his record for weeks at the top. |
+| 2017 | Wins the Australian Open and Wimbledon at age 35 after a six-month injury layoff. |
+| 2018 | Defends the Australian Open for a 20th and final major title; briefly returns to No. 1 at age 36, the oldest man to hold the ranking. |
+| 2019 | Loses a five-set Wimbledon final to Novak Djokovic after holding two championship points. |
+| 2021 | Plays his final competitive singles matches at Wimbledon. |
+| 2022 | Retires at the Laver Cup in London, playing a farewell doubles match alongside Rafael Nadal. |
+
+## Career totals
+
+::: {.rf-stats}
+::: {.rf-stat}
+[1251&ndash;275]{.num}
+[Singles win&ndash;loss record]{.label}
+:::
+::: {.rf-stat}
+[103]{.num}
+[Singles titles]{.label}
+:::
+::: {.rf-stat}
+[6]{.num}
+[ATP Finals titles]{.label}
+:::
+::: {.rf-stat}
+[28]{.num}
+[Masters 1000 titles]{.label}
+:::
+::: {.rf-stat}
+[\$130M+]{.num}
+[Career prize money]{.label}
+:::
+::: {.rf-stat}
+[24]{.num}
+[Seasons on tour]{.label}
+:::
+:::
+
+## Weeks at World No. 1
+
+Federer first reached No. 1 on 2 February 2004 and held the position for 237
+consecutive weeks through 17 August 2008 — a record that still stands. He
+reclaimed the top ranking several times, most improbably in 2018 at age 36. His
+total of 310 weeks at No. 1 was a record until surpassed by Novak Djokovic.
+
+| Ranking record | Detail |
+|----------------|--------|
+| Total weeks at No. 1 | 310 |
+| Consecutive weeks at No. 1 | 237 (record) |
+| Year-end No. 1 finishes | 5 (2004–2007, 2009) |
+| Years in the top 10 | 14 consecutive (2002–2016), then 2017–2020 |
+
+## Surface strengths
+
+Federer won titles on every surface but built his legend on fast courts. He was
+especially dominant on grass, where he won 8 Wimbledon titles and 10 Halle
+titles, and on indoor hard courts, where he won his home event in Basel 10 times.
+His lone French Open title in 2009 completed the Career Grand Slam and came the
+year Rafael Nadal was upset before the final.
+
+## Playing style
+
+- **One-handed backhand** — a signature shot, refined late in his career into an
+  aggressive weapon after coaching work with Ivan Ljubičić.
+- **Serve** — not the fastest on tour, but among the most accurate and
+  disguised, letting him hold serve cheaply for two decades.
+- **Movement** — widely praised footwork that kept points short and reduced wear
+  on his body, contributing to his longevity.
+- **SABR** — the "Sneak Attack By Roger," a chip-charge return off second serves
+  he introduced in 2015.

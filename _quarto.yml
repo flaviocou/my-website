@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Roger Federer"
+  description: "A tribute to the career, records, and legacy of Roger Federer."
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: career.qmd
+        text: Career
+      - href: grand-slams.qmd
+        text: Grand Slams
+      - href: rivalries.qmd
+        text: Rivalries
+      - href: legacy.qmd
+        text: Legacy
+  page-footer:
+    center: "Built with Quarto · Fan tribute site · Statistics through his 2022 retirement"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true

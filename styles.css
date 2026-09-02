@@ -1,0 +1,77 @@
+/* Roger Federer tribute site — custom styles */
+
+:root {
+  --rf-red: #b22222;
+  --rf-navy: #1c2a3a;
+  --rf-cream: #f7f5f0;
+}
+
+.navbar {
+  --bs-navbar-color: #fff;
+}
+
+h1, h2, h3 {
+  color: var(--rf-navy);
+}
+
+/* Hero block on the landing page */
+.rf-hero {
+  background: linear-gradient(135deg, var(--rf-navy), #34506b);
+  color: #fff;
+  padding: 3rem 2rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+
+.rf-hero h1 {
+  color: #fff;
+  font-size: 2.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.rf-hero p {
+  font-size: 1.15rem;
+  opacity: 0.9;
+  margin-bottom: 0;
+}
+
+/* Stat cards */
+.rf-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.rf-stat {
+  background: var(--rf-cream);
+  border-left: 4px solid var(--rf-red);
+  padding: 1.2rem;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.rf-stat .num {
+  display: block;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--rf-red);
+  line-height: 1.1;
+}
+
+.rf-stat .label {
+  font-size: 0.85rem;
+  color: #555;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+table {
+  font-size: 0.95rem;
+}
+
+blockquote {
+  border-left: 4px solid var(--rf-red);
+  font-style: italic;
+  color: #444;
+}

@@ -1,0 +1,88 @@
+---
+title: "Rivalries"
+subtitle: "The Big Three and the matches that shaped an era"
+---
+
+For most of Federer's prime, men's tennis was defined by three players — Federer,
+Rafael Nadal, and Novak Djokovic — who between them won the overwhelming majority
+of majors from 2005 onward. Federer was the elder of the group, and his
+head-to-head records against the other two tightened as the younger men matured.
+
+## Federer vs. Nadal
+
+::: {.rf-stats}
+::: {.rf-stat}
+[40]{.num}
+[Total meetings]{.label}
+:::
+::: {.rf-stat}
+[16&ndash;24]{.num}
+[Federer's record]{.label}
+:::
+::: {.rf-stat}
+[3&ndash;6]{.num}
+[In Grand Slam finals]{.label}
+:::
+:::
+
+Nadal led the overall rivalry 24–16, an edge built largely on clay, where he beat
+Federer 14–2. On grass and hard courts the two were far closer. Their nine
+Grand Slam finals include the 2008 Wimbledon final — widely regarded as the
+greatest match ever — and the 2017 Australian Open final, which Federer won in
+five sets during his late-career resurgence. They closed the rivalry as friends,
+partnering in doubles at the 2017 Laver Cup and again at Federer's farewell in
+2022.
+
+## Federer vs. Djokovic
+
+::: {.rf-stats}
+::: {.rf-stat}
+[50]{.num}
+[Total meetings]{.label}
+:::
+::: {.rf-stat}
+[23&ndash;27]{.num}
+[Federer's record]{.label}
+:::
+::: {.rf-stat}
+[4&ndash;1]{.num}
+[Federer's edge at the ATP Finals]{.label}
+:::
+:::
+
+The most-played rivalry of the Open Era at 50 matches, with Djokovic leading
+27–23. Djokovic repeatedly ended Federer's runs at the majors, including the
+2010 and 2011 US Open semi-finals — the latter after Federer held two match
+points — and the 2014 and 2019 Wimbledon finals. Federer had his best success
+indoors and at the year-end championships.
+
+## Federer vs. Murray
+
+::: {.rf-stats}
+::: {.rf-stat}
+[25]{.num}
+[Total meetings]{.label}
+:::
+::: {.rf-stat}
+[14&ndash;11]{.num}
+[Federer's record]{.label}
+:::
+::: {.rf-stat}
+[3&ndash;0]{.num}
+[In Grand Slam finals]{.label}
+:::
+:::
+
+Federer beat Andy Murray in all three of their Grand Slam finals (2008 US Open,
+2010 Australian Open, 2012 Wimbledon), but Murray took the biggest prize between
+them by winning the 2012 Olympic singles gold on Centre Court just weeks after
+losing the Wimbledon final there.
+
+## Earlier-era rivals
+
+- **Andy Roddick** — Federer led 21–3 and beat Roddick in four major finals, all
+  at Wimbledon or the US Open.
+- **Lleyton Hewitt** — after an early even split, Federer won 18 straight to
+  finish 18–9.
+- **Pete Sampras** — met once, in the 2001 Wimbledon fourth round, which the
+  19-year-old Federer won in five sets to end Sampras's title defence.

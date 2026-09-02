@@ -1,0 +1,83 @@
+---
+title: "Grand Slam Titles"
+subtitle: "All 20 major singles championships, 2003–2018"
+---
+
+## The record
+
+::: {.rf-stats}
+::: {.rf-stat}
+[8]{.num}
+[Wimbledon]{.label}
+:::
+::: {.rf-stat}
+[6]{.num}
+[Australian Open]{.label}
+:::
+::: {.rf-stat}
+[5]{.num}
+[US Open]{.label}
+:::
+::: {.rf-stat}
+[1]{.num}
+[French Open]{.label}
+:::
+::: {.rf-stat}
+[31]{.num}
+[Major finals reached]{.label}
+:::
+::: {.rf-stat}
+[10]{.num}
+[Consecutive major finals (2005–2007)]{.label}
+:::
+:::
+
+## Every title
+
+| # | Year | Tournament | Final opponent | Score |
+|---|------|-----------|----------------|-------|
+| 1 | 2003 | Wimbledon | Mark Philippoussis | 7–6, 6–2, 7–6 |
+| 2 | 2004 | Australian Open | Marat Safin | 7–6, 6–4, 6–2 |
+| 3 | 2004 | Wimbledon | Andy Roddick | 4–6, 7–5, 7–6, 6–4 |
+| 4 | 2004 | US Open | Lleyton Hewitt | 6–0, 7–6, 6–0 |
+| 5 | 2005 | Wimbledon | Andy Roddick | 6–2, 7–6, 6–4 |
+| 6 | 2005 | US Open | Andre Agassi | 6–3, 2–6, 7–6, 6–1 |
+| 7 | 2006 | Australian Open | Marcos Baghdatis | 5–7, 7–5, 6–0, 6–2 |
+| 8 | 2006 | Wimbledon | Rafael Nadal | 6–0, 7–6, 6–7, 6–3 |
+| 9 | 2006 | US Open | Andy Roddick | 6–2, 4–6, 7–5, 6–1 |
+| 10 | 2007 | Australian Open | Fernando González | 7–6, 6–4, 6–4 |
+| 11 | 2007 | Wimbledon | Rafael Nadal | 7–6, 4–6, 7–6, 2–6, 6–2 |
+| 12 | 2007 | US Open | Novak Djokovic | 7–6, 7–6, 6–4 |
+| 13 | 2008 | US Open | Andy Murray | 6–2, 7–5, 6–2 |
+| 14 | 2009 | French Open | Robin Söderling | 6–1, 7–6, 6–4 |
+| 15 | 2009 | Wimbledon | Andy Roddick | 5–7, 7–6, 7–6, 3–6, 16–14 |
+| 16 | 2010 | Australian Open | Andy Murray | 6–3, 6–4, 7–6 |
+| 17 | 2012 | Wimbledon | Andy Murray | 4–6, 7–5, 6–3, 6–4 |
+| 18 | 2017 | Australian Open | Rafael Nadal | 6–4, 3–6, 6–1, 3–6, 6–3 |
+| 19 | 2017 | Wimbledon | Marin Čilić | 6–3, 6–1, 6–4 |
+| 20 | 2018 | Australian Open | Marin Čilić | 6–2, 6–7, 6–3, 3–6, 6–1 |
+
+## Signature matches
+
+**2008 Wimbledon final (lost).** Often called the greatest match ever played,
+Federer lost 6–4, 6–4, 6–7, 6–7, 9–7 to Rafael Nadal in near-darkness, ending his
+five-year reign at the All England Club.
+
+**2009 Wimbledon final (won).** A 16–14 fifth set against Andy Roddick delivered
+Federer's 15th major, moving him past Pete Sampras for the all-time men's record
+at the time.
+
+**2017 Australian Open final (won).** Returning from a knee injury and unseeded
+in the draw's expectations, the 35-year-old beat Nadal in five sets for a first
+major in nearly five years.
+
+**2019 Wimbledon final (lost).** Federer held two championship points on serve at
+8–7 in the fifth before losing 13–12 (7–3) in the first Wimbledon final decided
+by a final-set tie-break.
+
+## Olympic and team results
+
+- **2008 Beijing** — Olympic gold in doubles with Stan Wawrinka.
+- **2012 London** — Olympic silver in singles, losing the final to Andy Murray.
+- **2014** — Led Switzerland to its first Davis Cup title.
+- **2001, 2018** — Won the Hopman Cup for Switzerland.

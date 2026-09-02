@@ -1,0 +1,69 @@
+---
+title: "Roger Federer"
+subtitle: "Eight-time Wimbledon champion, twenty Grand Slam titles, and one of the most admired athletes of his generation"
+toc: false
+---
+
+::: {.rf-hero}
+# Roger Federer
+
+The Swiss maestro. A twenty-time Grand Slam singles champion whose combination of
+elegance, longevity, and sportsmanship reshaped how tennis is played and watched.
+:::
+
+## At a glance
+
+::: {.rf-stats}
+::: {.rf-stat}
+[20]{.num}
+[Grand Slam singles titles]{.label}
+:::
+::: {.rf-stat}
+[103]{.num}
+[ATP singles titles]{.label}
+:::
+::: {.rf-stat}
+[310]{.num}
+[Weeks at World No. 1]{.label}
+:::
+::: {.rf-stat}
+[237]{.num}
+[Consecutive weeks at No. 1]{.label}
+:::
+::: {.rf-stat}
+[8]{.num}
+[Wimbledon titles]{.label}
+:::
+::: {.rf-stat}
+[1251]{.num}
+[Career match wins]{.label}
+:::
+:::
+
+## Who he is
+
+Roger Federer (born 8 August 1981 in Basel, Switzerland) turned professional in
+1998 and retired from competitive tennis in September 2022 at the Laver Cup in
+London. Over a 24-year career he won 20 major singles titles, spent a record 237
+consecutive weeks ranked World No. 1, and became the first man to win 100 or more
+tour-level singles titles in the Open Era after Jimmy Connors.
+
+Beyond the trophies, Federer is remembered for a one-handed backhand, an
+efficient all-court game, and a demeanour that made him a global ambassador for
+the sport. His rivalries with Rafael Nadal and Novak Djokovic defined men's
+tennis for nearly two decades.
+
+## Explore the site
+
+- **[Career](career.qmd)** — timeline, rankings, titles, and the numbers behind the record.
+- **[Grand Slams](grand-slams.qmd)** — all 20 major titles, tournament by tournament.
+- **[Rivalries](rivalries.qmd)** — the "Big Three" and the matches that mattered.
+- **[Legacy](legacy.qmd)** — style, philanthropy, business, and what he left behind.
+
+> "I fear no one, but I respect everyone." — Roger Federer
+
+::: {.callout-note}
+This is an independent fan tribute. Statistics reflect Federer's career through
+his retirement in 2022 and are drawn from public records such as the ATP Tour
+and Wikipedia.
+:::

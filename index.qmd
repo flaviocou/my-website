@@ -1,7 +1,6 @@
 ---
 title: "Roger Federer"
 subtitle: "Eight-time Wimbledon champion, twenty Grand Slam titles, and one of the most admired athletes of his generation"
-toc: false
 ---
 
 ::: {.rf-hero}
@@ -53,14 +52,345 @@ efficient all-court game, and a demeanour that made him a global ambassador for
 the sport. His rivalries with Rafael Nadal and Novak Djokovic defined men's
 tennis for nearly two decades.
 
-## Explore the site
-
-- **[Career](career.qmd)** — timeline, rankings, titles, and the numbers behind the record.
-- **[Grand Slams](grand-slams.qmd)** — all 20 major titles, tournament by tournament.
-- **[Rivalries](rivalries.qmd)** — the "Big Three" and the matches that mattered.
-- **[Legacy](legacy.qmd)** — style, philanthropy, business, and what he left behind.
-
 > "I fear no one, but I respect everyone." — Roger Federer
+
+# Career
+
+From a junior Wimbledon champion in 1998 to a farewell at the 2022 Laver Cup.
+
+## Timeline
+
+| Year | Milestone |
+|------|-----------|
+| 1998 | Wins the Wimbledon boys' singles title; turns professional. |
+| 2001 | Ends Pete Sampras's 31-match Wimbledon win streak in the fourth round. |
+| 2003 | Wins his first Grand Slam title at Wimbledon. |
+| 2004 | Wins three majors in a season and reaches No. 1 for the first time (2 February 2004). |
+| 2006 | Goes 92–5 on the season, reaching all four major finals. |
+| 2009 | Completes the Career Grand Slam by winning the French Open; breaks Sampras's record of 14 majors at Wimbledon. |
+| 2012 | Wins a seventh Wimbledon title and returns to No. 1, extending his record for weeks at the top. |
+| 2017 | Wins the Australian Open and Wimbledon at age 35 after a six-month injury layoff. |
+| 2018 | Defends the Australian Open for a 20th and final major title; briefly returns to No. 1 at age 36, the oldest man to hold the ranking. |
+| 2019 | Loses a five-set Wimbledon final to Novak Djokovic after holding two championship points. |
+| 2021 | Plays his final competitive singles matches at Wimbledon. |
+| 2022 | Retires at the Laver Cup in London, playing a farewell doubles match alongside Rafael Nadal. |
+
+## Career totals
+
+::: {.rf-stats}
+::: {.rf-stat}
+[1251&ndash;275]{.num}
+[Singles win&ndash;loss record]{.label}
+:::
+::: {.rf-stat}
+[103]{.num}
+[Singles titles]{.label}
+:::
+::: {.rf-stat}
+[6]{.num}
+[ATP Finals titles]{.label}
+:::
+::: {.rf-stat}
+[28]{.num}
+[Masters 1000 titles]{.label}
+:::
+::: {.rf-stat}
+[\$130M+]{.num}
+[Career prize money]{.label}
+:::
+::: {.rf-stat}
+[24]{.num}
+[Seasons on tour]{.label}
+:::
+:::
+
+## Weeks at World No. 1
+
+Federer first reached No. 1 on 2 February 2004 and held the position for 237
+consecutive weeks through 17 August 2008 — a record that still stands. He
+reclaimed the top ranking several times, most improbably in 2018 at age 36. His
+total of 310 weeks at No. 1 was a record until surpassed by Novak Djokovic.
+
+| Ranking record | Detail |
+|----------------|--------|
+| Total weeks at No. 1 | 310 |
+| Consecutive weeks at No. 1 | 237 (record) |
+| Year-end No. 1 finishes | 5 (2004–2007, 2009) |
+| Years in the top 10 | 14 consecutive (2002–2016), then 2017–2020 |
+
+## ATP titles since 2018
+
+Federer's last eight tour-level titles all came in 2018 and 2019, including his
+100th career title in Dubai. He reached finals afterward but did not win another
+title before retiring; 2020, 2021, and 2022 produced none.
+
+| Year | Tournament | Surface | Final opponent | Score |
+|------|-----------|---------|----------------|-------|
+| 2018 | Australian Open | Hard | Marin Čilić | 6–2, 6–7(5), 6–3, 3–6, 6–1 |
+| 2018 | Rotterdam | Hard (indoor) | Grigor Dimitrov | 6–2, 6–2 |
+| 2018 | Stuttgart | Grass | Milos Raonic | 6–4, 7–6(3) |
+| 2018 | Basel | Hard (indoor) | Marius Copil | 7–6(5), 6–4 |
+| 2019 | Dubai | Hard | Stefanos Tsitsipas | 6–4, 6–4 |
+| 2019 | Miami | Hard | John Isner | 6–1, 6–4 |
+| 2019 | Halle | Grass | David Goffin | 7–6(2), 6–1 |
+| 2019 | Basel | Hard (indoor) | Alex de Minaur | 6–2, 6–2 |
+
+## Surface strengths
+
+Federer won titles on every surface but built his legend on fast courts. He was
+especially dominant on grass, where he won 8 Wimbledon titles and 10 Halle
+titles, and on indoor hard courts, where he won his home event in Basel 10 times.
+His lone French Open title in 2009 completed the Career Grand Slam and came the
+year Rafael Nadal was upset before the final.
+
+## Playing style
+
+- **One-handed backhand** — a signature shot, refined late in his career into an
+  aggressive weapon after coaching work with Ivan Ljubičić.
+- **Serve** — not the fastest on tour, but among the most accurate and
+  disguised, letting him hold serve cheaply for two decades.
+- **Movement** — widely praised footwork that kept points short and reduced wear
+  on his body, contributing to his longevity.
+- **SABR** — the "Sneak Attack By Roger," a chip-charge return off second serves
+  he introduced in 2015.
+
+# Grand Slam titles
+
+All 20 major singles championships, 2003–2018.
+
+## The record
+
+::: {.rf-stats}
+::: {.rf-stat}
+[8]{.num}
+[Wimbledon]{.label}
+:::
+::: {.rf-stat}
+[6]{.num}
+[Australian Open]{.label}
+:::
+::: {.rf-stat}
+[5]{.num}
+[US Open]{.label}
+:::
+::: {.rf-stat}
+[1]{.num}
+[French Open]{.label}
+:::
+::: {.rf-stat}
+[31]{.num}
+[Major finals reached]{.label}
+:::
+::: {.rf-stat}
+[10]{.num}
+[Consecutive major finals (2005–2007)]{.label}
+:::
+:::
+
+## Every title
+
+| # | Year | Tournament | Final opponent | Score |
+|---|------|-----------|----------------|-------|
+| 1 | 2003 | Wimbledon | Mark Philippoussis | 7–6, 6–2, 7–6 |
+| 2 | 2004 | Australian Open | Marat Safin | 7–6, 6–4, 6–2 |
+| 3 | 2004 | Wimbledon | Andy Roddick | 4–6, 7–5, 7–6, 6–4 |
+| 4 | 2004 | US Open | Lleyton Hewitt | 6–0, 7–6, 6–0 |
+| 5 | 2005 | Wimbledon | Andy Roddick | 6–2, 7–6, 6–4 |
+| 6 | 2005 | US Open | Andre Agassi | 6–3, 2–6, 7–6, 6–1 |
+| 7 | 2006 | Australian Open | Marcos Baghdatis | 5–7, 7–5, 6–0, 6–2 |
+| 8 | 2006 | Wimbledon | Rafael Nadal | 6–0, 7–6, 6–7, 6–3 |
+| 9 | 2006 | US Open | Andy Roddick | 6–2, 4–6, 7–5, 6–1 |
+| 10 | 2007 | Australian Open | Fernando González | 7–6, 6–4, 6–4 |
+| 11 | 2007 | Wimbledon | Rafael Nadal | 7–6, 4–6, 7–6, 2–6, 6–2 |
+| 12 | 2007 | US Open | Novak Djokovic | 7–6, 7–6, 6–4 |
+| 13 | 2008 | US Open | Andy Murray | 6–2, 7–5, 6–2 |
+| 14 | 2009 | French Open | Robin Söderling | 6–1, 7–6, 6–4 |
+| 15 | 2009 | Wimbledon | Andy Roddick | 5–7, 7–6, 7–6, 3–6, 16–14 |
+| 16 | 2010 | Australian Open | Andy Murray | 6–3, 6–4, 7–6 |
+| 17 | 2012 | Wimbledon | Andy Murray | 4–6, 7–5, 6–3, 6–4 |
+| 18 | 2017 | Australian Open | Rafael Nadal | 6–4, 3–6, 6–1, 3–6, 6–3 |
+| 19 | 2017 | Wimbledon | Marin Čilić | 6–3, 6–1, 6–4 |
+| 20 | 2018 | Australian Open | Marin Čilić | 6–2, 6–7, 6–3, 3–6, 6–1 |
+
+## Signature matches
+
+**2008 Wimbledon final (lost).** Often called the greatest match ever played,
+Federer lost 6–4, 6–4, 6–7, 6–7, 9–7 to Rafael Nadal in near-darkness, ending his
+five-year reign at the All England Club.
+
+**2009 Wimbledon final (won).** A 16–14 fifth set against Andy Roddick delivered
+Federer's 15th major, moving him past Pete Sampras for the all-time men's record
+at the time.
+
+**2017 Australian Open final (won).** Returning from a knee injury and unseeded
+in the draw's expectations, the 35-year-old beat Nadal in five sets for a first
+major in nearly five years.
+
+**2019 Wimbledon final (lost).** Federer held two championship points on serve at
+8–7 in the fifth before losing 13–12 (7–3) in the first Wimbledon final decided
+by a final-set tie-break.
+
+## Olympic and team results
+
+- **2008 Beijing** — Olympic gold in doubles with Stan Wawrinka.
+- **2012 London** — Olympic silver in singles, losing the final to Andy Murray.
+- **2014** — Led Switzerland to its first Davis Cup title.
+- **2001, 2018** — Won the Hopman Cup for Switzerland.
+
+# Rivalries
+
+The "Big Three" and the matches that shaped an era. For most of Federer's prime,
+men's tennis was defined by three players — Federer, Rafael Nadal, and Novak
+Djokovic — who between them won the overwhelming majority of majors from 2005
+onward. Federer was the elder of the group, and his head-to-head records against
+the other two tightened as the younger men matured.
+
+## Federer vs. Nadal
+
+::: {.rf-stats}
+::: {.rf-stat}
+[40]{.num}
+[Total meetings]{.label}
+:::
+::: {.rf-stat}
+[16&ndash;24]{.num}
+[Federer's record]{.label}
+:::
+::: {.rf-stat}
+[3&ndash;6]{.num}
+[In Grand Slam finals]{.label}
+:::
+:::
+
+Nadal led the overall rivalry 24–16, an edge built largely on clay, where he beat
+Federer 14–2. On grass and hard courts the two were far closer. Their nine
+Grand Slam finals include the 2008 Wimbledon final — widely regarded as the
+greatest match ever — and the 2017 Australian Open final, which Federer won in
+five sets during his late-career resurgence. They closed the rivalry as friends,
+partnering in doubles at the 2017 Laver Cup and again at Federer's farewell in
+2022.
+
+## Federer vs. Djokovic
+
+::: {.rf-stats}
+::: {.rf-stat}
+[50]{.num}
+[Total meetings]{.label}
+:::
+::: {.rf-stat}
+[23&ndash;27]{.num}
+[Federer's record]{.label}
+:::
+::: {.rf-stat}
+[4&ndash;1]{.num}
+[Federer's edge at the ATP Finals]{.label}
+:::
+:::
+
+The most-played rivalry of the Open Era at 50 matches, with Djokovic leading
+27–23. Djokovic repeatedly ended Federer's runs at the majors, including the
+2010 and 2011 US Open semi-finals — the latter after Federer held two match
+points — and the 2014 and 2019 Wimbledon finals. Federer had his best success
+indoors and at the year-end championships.
+
+## Federer vs. Murray
+
+::: {.rf-stats}
+::: {.rf-stat}
+[25]{.num}
+[Total meetings]{.label}
+:::
+::: {.rf-stat}
+[14&ndash;11]{.num}
+[Federer's record]{.label}
+:::
+::: {.rf-stat}
+[3&ndash;0]{.num}
+[In Grand Slam finals]{.label}
+:::
+:::
+
+Federer beat Andy Murray in all three of their Grand Slam finals (2008 US Open,
+2010 Australian Open, 2012 Wimbledon), but Murray took the biggest prize between
+them by winning the 2012 Olympic singles gold on Centre Court just weeks after
+losing the Wimbledon final there.
+
+## Earlier-era rivals
+
+- **Andy Roddick** — Federer led 21–3 and beat Roddick in four major finals, all
+  at Wimbledon or the US Open.
+- **Lleyton Hewitt** — after an early even split, Federer won 18 straight to
+  finish 18–9.
+- **Pete Sampras** — met once, in the 2001 Wimbledon fourth round, which the
+  19-year-old Federer won in five sets to end Sampras's title defence.
+
+# Legacy
+
+Influence on and off the court.
+
+## On the court
+
+Federer's career reset expectations for how long a tennis player could stay at
+the top. He won majors 15 years apart (2003 and 2018), reached World No. 1 at age
+36, and played Grand Slam quarter-finals into his 40th year. His 237 consecutive
+weeks at No. 1 and his run of 10 straight Grand Slam finals (2005–2007) remain
+records.
+
+Stylistically, he is credited with reviving belief in the one-handed backhand and
+in aggressive, forward-moving all-court tennis at a time when the sport was
+trending toward baseline attrition. A generation of players — Grigor Dimitrov,
+Stefanos Tsitsipas, and others — modeled their games on his.
+
+## Sportsmanship and popularity
+
+Federer won the ATP's Stefan Edberg Sportsmanship Award, voted by players, a
+record number of times, and the Laureus World Sportsman of the Year award five
+times. He also won the ATP Fans' Favourite award every year from 2003 through
+2022 — an unbroken 19-year run — reflecting a level of cross-border popularity
+rare in an individual sport.
+
+## Philanthropy
+
+The **Roger Federer Foundation**, established in 2003, focuses on early childhood
+education in southern Africa and in Switzerland. By his retirement the foundation
+reported reaching well over one million children through education programs,
+funded in part by exhibition matches such as the "Match for Africa" series, which
+featured opponents including Rafael Nadal and Bill Gates.
+
+## Business
+
+- **On** — Federer took an equity stake in the Swiss running-shoe company in
+  2019, helped design its "The Roger" lifestyle line, and became a public face of
+  the brand as it grew into a multibillion-dollar business.
+- **Laver Cup** — Federer's management company, Team8, co-founded the Laver Cup
+  in 2017, a Ryder Cup–style Europe vs. World team event now sanctioned by the
+  ATP. He chose it as the setting for his retirement.
+- **Endorsements** — long-term partnerships with Rolex, Mercedes-Benz, Lindt,
+  Credit Suisse, Wilson, and Uniqlo, the last on a reported 10-year deal signed
+  in 2018.
+
+## Retirement
+
+Federer announced his retirement on 15 September 2022 and played his final match
+six days later at the Laver Cup in London — a doubles rubber partnered with
+Rafael Nadal against Frances Tiafoe and Jack Sock. The team lost, but the image
+of Federer and Nadal in tears holding hands afterward became one of the defining
+photographs of modern sport.
+
+> "Tennis has treated me more generously than I ever would have dreamt, and now I
+> must recognize when it is time to end my competitive career." — Roger Federer,
+> retirement letter, 2022
+
+## Selected honours
+
+| Honour | Detail |
+|--------|--------|
+| Laureus World Sportsman of the Year | 2005, 2006, 2007, 2008, 2018 |
+| ATP Player of the Year | 2004–2007, 2009 |
+| ATP Fans' Favourite | 2003–2022 (19 consecutive years) |
+| Stefan Edberg Sportsmanship Award | 13 times |
+| BBC Overseas Sports Personality of the Year | 2004, 2006, 2007, 2017 |
+| Davis Cup champion | 2014 (Switzerland) |
 
 ::: {.callout-note}
 This is an independent fan tribute. Statistics reflect Federer's career through

@@ -1,18 +1,20 @@
 # my-website
 
-A multipage [Quarto](https://quarto.org) website — a fan tribute to Roger Federer.
+A single-page [Quarto](https://quarto.org) website — a fan tribute to Roger Federer.
 
-## Pages
+## Structure
 
-| File | Page |
-|------|------|
-| `index.qmd` | Home — overview and headline stats |
-| `career.qmd` | Career timeline, rankings, playing style |
-| `grand-slams.qmd` | All 20 Grand Slam titles and signature matches |
-| `rivalries.qmd` | Nadal, Djokovic, Murray, and earlier rivals |
-| `legacy.qmd` | Sportsmanship, philanthropy, business, retirement |
+All content lives in `index.qmd`, organised into four top-level sections:
 
-Configuration lives in `_quarto.yml`; custom styling in `styles.css`.
+| Section | Contents |
+|---------|----------|
+| Career | Timeline, career totals, weeks at No. 1, ATP titles since 2018, playing style |
+| Grand Slam titles | The record, all 20 major titles, signature matches, Olympic and team results |
+| Rivalries | Nadal, Djokovic, Murray, and earlier rivals |
+| Legacy | Sportsmanship, philanthropy, business, retirement, honours |
+
+Configuration lives in `_quarto.yml`; custom styling in `styles.css`. The navbar
+links jump to the sections within the single page.
 
 ## Build
 

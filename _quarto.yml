@@ -11,13 +11,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: career.qmd
+      - href: index.qmd#career
         text: Career
-      - href: grand-slams.qmd
+      - href: index.qmd#grand-slam-titles
         text: Grand Slams
-      - href: rivalries.qmd
+      - href: index.qmd#rivalries
         text: Rivalries
-      - href: legacy.qmd
+      - href: index.qmd#legacy
         text: Legacy
   page-footer:
     center: "Built with Quarto · Fan tribute site · Statistics through his 2022 retirement"
@@ -28,6 +28,7 @@ format:
     css: styles.css
     toc: true
     toc-location: right
+    toc-depth: 2
     page-layout: full
     smooth-scroll: true
     link-external-newwindow: true
